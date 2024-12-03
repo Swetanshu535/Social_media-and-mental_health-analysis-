@@ -1,0 +1,30 @@
+year,state,general_health,phq,severity,times
+2000,MD,Very Good,Several days,minimal anxiety,Never
+2001,SC,Good,More than half of the days,minimal anxiety,1-2 times
+1999,NJ,Good,Several days,mild anxiety,7-8 times
+1998,NY,Good,Several days,moderate anxiety,9-10 times
+2000,PA,Very Good,Not at all,severe anxiety,7-8 times
+2000,PA,Good,Several days,mild anxiety,1-2 times
+2000,OH,Very Good,More than half of the days,severe anxiety,7-8 times
+2001,OH,Excellent,Several days,minimal anxiety,Never
+2000,IL,Very Good,More than half of the days,mild anxiety,7-8 times
+1996,NC,Excellent,Several days,minimal anxiety,Never
+2002,NY,Very Good,Several days,minimal anxiety,Never
+2003,NH,Very Good,Several days,moderate anxiety,9-10 times
+2002,IL,Good,More than half of the days,mild anxiety,11 or more times
+1998,NY,Fair,More than half of the days,moderate anxiety,7-8 times
+2003,NY,Very Good,Not at all,moderate anxiety,9-10 times
+1994,VA,Fair,Several days,mild anxiety,1-2 times
+2000,IA,Very Good,Not at all,mild anxiety,1-2 times
+1999,VA,Good,More than half of the days,moderate anxiety,Never
+1988,FL,Good,Not at all,mild anxiety,9-10 times
+2002,TX,Fair,Several days,minimal anxiety,Never
+1994,TX,Good,Not at all,mild anxiety,11 or more times
+1998,NY,Fair,More than half of the days,minimal anxiety,7-8 times
+2001,TX,Very Good,Not at all,moderate anxiety,9-10 times
+2002,NY,Good,More than half of the days,minimal anxiety,3-4 times
+1997,NY,Very Good,More than half of the days,mild anxiety,9-10 times
+1997,NY,Fair,More than half of the days,minimal anxiety,5-6 times
+2002,SC,Very Good,Not at all,minimal anxiety,9-10 times
+2001,FL,Very Good,Several days,moderate anxiety,Never
+2001,MA,Poor,More than half of the days,mild anxiety,3-4 times

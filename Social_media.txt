@@ -1,0 +1,32 @@
+create database mental_health;
+
+use mental_health;
+
+select * from social_media;
+
+-- if the general health is very good then show the text proper use of media and for good show improvement needed
+select general_health, if(general_health= "very Good", "Proper use of Social media","Show Improvement in social media") as media_usage
+from social_media;
+-- For general health good show times 
+select * from social_media;
+
+select general_health, times
+from social_media 
+where general_health= "Good";
+
+-- Show from 2000 and 2003 the phq 
+select * from social_media;
+
+select phq,year
+from social_media
+where year between 2000 and 2003;
+
+-- provide row number for all the data in the table 
+select *, row_number() over (order by year) as row_no
+from social_media;
+
+-- Bucket the good very good excellent fair and poor data 
+select *, ntile(5) over (order by general_health) as bucket
+from social_media;
+
+
